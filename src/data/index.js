@@ -1,78 +1,78 @@
 export const PLAYLIST = [
 	{
 		index: "0",
-		type: "albüm",
-		title: "Lafıma Gücenme",
+		type: "Album",
+		title: "Digg Deepah",
 		link: "lafimagucenme",
 		imgUrl:
 			"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 		hoverColor: "rgb(224, 112, 16)",
-		artist: "Ari Barokos",
+		artist: "Digg Deepah",
 		playlistBg: "rgb(224, 112, 16)",
 		playlistData: [
 			{
 				index: "1",
-				songName: "Yaşıyorum Sil Baştan",
+				songName: "Park Side",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
+				songArtist: "Digg Deepah",
 				link:
-					"https://server1.indiryuklemp3.org/mp3_files/yasiyorum-sil-bastan-h8OmycopAr-0.mp3",
+					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
 				trackTime: "3:19",
 			},
 			{
 				index: "2",
-				songName: "Salaksın",
+				songName: "Digg Deepah 2",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
+				songArtist: "Digg Deepah",
 				link:
-					"https://server1.indiryuklemp3.org/mp3_files/salaksin-I6hfUKt21R-0.mp3",
+					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
 				trackTime: "5:12",
 			},
 			{
 				index: "3",
-				songName: "Yanlızlık Kanında Var",
+				songName: "Digg Deepah 3",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
+				songArtist: "Digg Deepah",
 				link:
-					"https://server1.indiryuklemp3.org/mp3_files/yalnizlik-kaninda-var-0vWfgutCZj-0.mp3",
+					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
 				trackTime: "3:48",
 			},
 			{
 				index: "4",
-				songName: "Gavurlar",
+				songName: "Digg Deepah 4",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
+				songArtist: "Digg Deepah",
 				link:
-					"https://server1.indiryuklemp3.org/mp3_files/gavurlar-hzfjF7ZWLE-0.mp3",
+					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
 				trackTime: "4:08",
 			},
 			{
 				index: "5",
-				songName: "Yalan (Demo)",
+				songName: "Digg Deepah 5",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
+				songArtist: "Digg Deepah",
 				link:
-					"https://p.scdn.co/mp3-preview/8dd8fbb1721d4964028ad362a80ad3ae2422f547?cid=6d083ea30aaa46428fbf1590d31f6750",
+					"https://doc-10-14-docs.googleusercontent.com/docs/securesc/ut1t7d6veedk0sa7b3pe2hd3iva63pof/lmfbf1okr7gqo4q71tem7qqbk1b7cdgf/1617827100000/10208157747720220869/10208157747720220869/1ptckMsOYy42VDBjPcY2WHbKszZuax1At?e=download&authuser=0",
 				trackTime: "0:30",
 			},
 			{
 				index: "6",
-				songName: "Beyni Yok (Demo)",
+				songName: "Digg Deepah 6",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
+				songArtist: "Digg Deepah",
 				link:
 					"https://p.scdn.co/mp3-preview/70bcfb8ae773f9e74501a6b28d545ac04abd0fdd?cid=6d083ea30aaa46428fbf1590d31f6750",
 				trackTime: "0:30",
 			},
 			{
 				index: "7",
-				songName: "Nafile (Demo)",
+				songName: "Digg Deepah",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
