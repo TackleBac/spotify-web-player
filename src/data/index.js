@@ -5,7 +5,7 @@ export const PLAYLIST = [
 		title: "Lafıma Gücenme",
 		link: "lafimagucenme",
 		imgUrl:
-			"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+			"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 		hoverColor: "rgb(224, 112, 16)",
 		artist: "Ari Barokos",
 		playlistBg: "rgb(224, 112, 16)",
@@ -14,7 +14,7 @@ export const PLAYLIST = [
 				index: "1",
 				songName: "Yaşıyorum Sil Baştan",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://server1.indiryuklemp3.org/mp3_files/yasiyorum-sil-bastan-h8OmycopAr-0.mp3",
@@ -24,7 +24,7 @@ export const PLAYLIST = [
 				index: "2",
 				songName: "Salaksın",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://server1.indiryuklemp3.org/mp3_files/salaksin-I6hfUKt21R-0.mp3",
@@ -34,7 +34,7 @@ export const PLAYLIST = [
 				index: "3",
 				songName: "Yanlızlık Kanında Var",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://server1.indiryuklemp3.org/mp3_files/yalnizlik-kaninda-var-0vWfgutCZj-0.mp3",
@@ -44,7 +44,7 @@ export const PLAYLIST = [
 				index: "4",
 				songName: "Gavurlar",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://server1.indiryuklemp3.org/mp3_files/gavurlar-hzfjF7ZWLE-0.mp3",
@@ -54,7 +54,7 @@ export const PLAYLIST = [
 				index: "5",
 				songName: "Yalan (Demo)",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://p.scdn.co/mp3-preview/8dd8fbb1721d4964028ad362a80ad3ae2422f547?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -64,7 +64,7 @@ export const PLAYLIST = [
 				index: "6",
 				songName: "Beyni Yok (Demo)",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://p.scdn.co/mp3-preview/70bcfb8ae773f9e74501a6b28d545ac04abd0fdd?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -74,7 +74,7 @@ export const PLAYLIST = [
 				index: "7",
 				songName: "Nafile (Demo)",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://p.scdn.co/mp3-preview/225415a01d8093fbde5462def2f54c805d5ce4a5?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -84,7 +84,7 @@ export const PLAYLIST = [
 				index: "8",
 				songName: "Ömrümüz Yine Geçiyor (Demo)",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://p.scdn.co/mp3-preview/d306c50b99606e47644c5ed8a405da31094d0e2b?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -94,7 +94,7 @@ export const PLAYLIST = [
 				index: "9",
 				songName: "Yangın Var (Demo)",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://p.scdn.co/mp3-preview/8e8aa510101ebb69e5c8c7ae3fd0c20ee21be3ef?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -104,7 +104,7 @@ export const PLAYLIST = [
 				index: "10",
 				songName: "Egotango (Demo)",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000b2731d26b3e7ea803059a6e4ffea",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ari Barokos",
 				link:
 					"https://p.scdn.co/mp3-preview/a74af1d9813db16e08ffdcb52c0c3d43c1b15a61?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -118,7 +118,7 @@ export const PLAYLIST = [
 		title: "Heavy Queens",
 		link: "heavyqueens",
 		imgUrl:
-			"https://i.scdn.co/image/ab67706f000000021e117034167831d5574aba62",
+			"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 		hoverColor: "rgb(216, 24, 40)",
 		artist: "Music needs women #IWD2021.",
 		playlistBg: "rgb(216, 24, 40)",
@@ -127,7 +127,7 @@ export const PLAYLIST = [
 				index: "1",
 				songName: "Peacekeepers",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000485179927e37a012986bd320a183",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Metalite",
 				link:
 					"https://p.scdn.co/mp3-preview/2a80c8096e1573c71c76c4f3839e6569098cbca4?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -137,7 +137,7 @@ export const PLAYLIST = [
 				index: "2",
 				songName: "Gravity",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000485148e441eb6dff6f6e51cc8c7c",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Skarlett Riot",
 				link:
 					"https://p.scdn.co/mp3-preview/dfcdaa892ad2ece164ad12ddcff95ec1c8a4515b?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -147,7 +147,7 @@ export const PLAYLIST = [
 				index: "3",
 				songName: "Memoriam",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000485145ec6fceefb51f0ab5913454",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Eleine",
 				link:
 					"https://p.scdn.co/mp3-preview/fb27d89173d867bb163599d5b1027816e98d8819?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -161,7 +161,7 @@ export const PLAYLIST = [
 		title: "Türkçe Rock",
 		link: "turkcerock",
 		imgUrl:
-			"https://i.scdn.co/image/ab67706f00000002ce3ed77553569a17b34b2b12",
+			"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 		hoverColor: "rgb(232, 24, 48)",
 		artist: "Gitar ve davulu konuşturanlar.",
 		playlistBg: "rgb(232, 24, 48)",
@@ -170,7 +170,7 @@ export const PLAYLIST = [
 				index: "1",
 				songName: "Ben Vardım",
 				songimg:
-					"https://i.scdn.co/image/ab67616d00004851ae2e7836c9072519d2632fc8",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Fatma Turgut",
 				link:
 					"https://p.scdn.co/mp3-preview/774ecac56fa55a4a46f53756d2910a6d0cab2024?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -180,7 +180,7 @@ export const PLAYLIST = [
 				index: "2",
 				songName: "HİÇ",
 				songimg:
-					"https://i.scdn.co/image/ab67616d0000485125a0ef43214acc52503903bc",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Ufuk Beydemir",
 				link:
 					"https://p.scdn.co/mp3-preview/35d525692406a0f11de5eff182dadce5f6b12839?cid=6d083ea30aaa46428fbf1590d31f6750",
@@ -190,7 +190,7 @@ export const PLAYLIST = [
 				index: "3",
 				songName: "Buyur Burdan Yak",
 				songimg:
-					"https://i.scdn.co/image/ab67616d000048519a8a760664188c18fa8dfccd",
+					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Umut Kaya",
 				link:
 					"https://p.scdn.co/mp3-preview/4dd21e393d27556e57c46923557afed4ef1d32c7?cid=6d083ea30aaa46428fbf1590d31f6750",
