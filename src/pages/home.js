@@ -18,13 +18,13 @@ function Home(){
             <div className={styles.Content}>
                 <section>
                     <div className={styles.SectionTitle}>
-                        <TitleL>İyi günler</TitleL>
+                        <TitleL>Music</TitleL>
                     </div>
 
                     <div className={styles.SectionCards}>
                         {PLAYLIST.map((item) => {
                             return (
-                                <PlaylistCardS 
+                                <PlaylistCardS
                                     key={item.title}
                                     data={item}
                                 />
@@ -37,11 +37,11 @@ function Home(){
                     <div className={styles.SectionTitle}>
                         <TitleM>Yakında çalınanlar</TitleM>
                     </div>
-                    
+
                     <div className={styles.SectionCardsMedium}>
                         {PLAYLIST.slice(0, 6).map((item) => {
                             return (
-                                <PlaylistCardM 
+                                <PlaylistCardM
                                     key={item.title}
                                     data={item}
                                 />

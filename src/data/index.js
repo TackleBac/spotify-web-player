@@ -22,12 +22,12 @@ export const PLAYLIST = [
 			},
 			{
 				index: "2",
-				songName: "Digg Deepah 2",
+				songName: "Park Side Blob 2",
 				songimg:
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Digg Deepah",
 				link:
-					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
+					"https://github.com/TackleBac/spotify-web-player/blob/master/src/data/eMastered_park-side.mp3",
 				trackTime: "5:12",
 			},
 			{
