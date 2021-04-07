@@ -2,7 +2,7 @@ export const PLAYLIST = [
 	{
 		index: "0",
 		type: "Album",
-		title: "Digg Deepah",
+		title: "Digg Deepah The Album",
 		link: "lafimagucenme",
 		imgUrl:
 			"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
@@ -17,7 +17,7 @@ export const PLAYLIST = [
 					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
 				songArtist: "Digg Deepah",
 				link:
-					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
+					"https://github.com/TackleBac/spotify-web-player/raw/master/src/data/eMastered_park-side.mp3",
 				trackTime: "3:19",
 			},
 			{
