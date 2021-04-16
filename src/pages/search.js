@@ -11,11 +11,11 @@ function Search(){
             <Topnav search={true}/>
 
             <div className={styles.Search}>
-                <TitleM>Hepsine göz at</TitleM>
+                <TitleM>Browse All</TitleM>
                 <div className={styles.SearchCardGrid}>
                     {SEARCHCARDS.map((card) => {
                         return (
-                            <SearchPageCard 
+                            <SearchPageCard
                                 key={card.title}
                                 cardData={{
                                     bgcolor: card.bgcolor,
