@@ -35,7 +35,7 @@ function Home(){
 
                 <section>
                     <div className={styles.SectionTitle}>
-                        <TitleM>Yakında çalınanlar</TitleM>
+                        <TitleM>Brand New Music</TitleM>
                     </div>
 
                     <div className={styles.SectionCardsMedium}>
