@@ -20,96 +20,6 @@ export const PLAYLIST = [
 					"https://github.com/TackleBac/spotify-web-player/raw/master/src/data/eMastered_park-side.mp3",
 				trackTime: "3:19",
 			},
-			{
-				index: "2",
-				songName: "Park Side Blob 2",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Digg Deepah",
-				link:
-					"https://github.com/TackleBac/spotify-web-player/blob/master/src/data/eMastered_park-side.mp3",
-				trackTime: "5:12",
-			},
-			{
-				index: "3",
-				songName: "Digg Deepah 3",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Digg Deepah",
-				link:
-					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
-				trackTime: "3:48",
-			},
-			{
-				index: "4",
-				songName: "Digg Deepah 4",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Digg Deepah",
-				link:
-					"https://drive.google.com/file/d/1ptckMsOYy42VDBjPcY2WHbKszZuax1At/view?usp=sharing",
-				trackTime: "4:08",
-			},
-			{
-				index: "5",
-				songName: "Digg Deepah 5",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Digg Deepah",
-				link:
-					"https://doc-10-14-docs.googleusercontent.com/docs/securesc/ut1t7d6veedk0sa7b3pe2hd3iva63pof/lmfbf1okr7gqo4q71tem7qqbk1b7cdgf/1617827100000/10208157747720220869/10208157747720220869/1ptckMsOYy42VDBjPcY2WHbKszZuax1At?e=download&authuser=0",
-				trackTime: "0:30",
-			},
-			{
-				index: "6",
-				songName: "Digg Deepah 6",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Digg Deepah",
-				link:
-					"https://p.scdn.co/mp3-preview/70bcfb8ae773f9e74501a6b28d545ac04abd0fdd?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "7",
-				songName: "Digg Deepah",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/225415a01d8093fbde5462def2f54c805d5ce4a5?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "8",
-				songName: "Ömrümüz Yine Geçiyor (Demo)",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/d306c50b99606e47644c5ed8a405da31094d0e2b?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "9",
-				songName: "Yangın Var (Demo)",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/8e8aa510101ebb69e5c8c7ae3fd0c20ee21be3ef?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "10",
-				songName: "Egotango (Demo)",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ari Barokos",
-				link:
-					"https://p.scdn.co/mp3-preview/a74af1d9813db16e08ffdcb52c0c3d43c1b15a61?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
 		],
 	},
 	{
@@ -156,49 +66,6 @@ export const PLAYLIST = [
 		],
 	},
 	{
-		index: "2",
-		type: "playlist",
-		title: "Türkçe Rock",
-		link: "turkcerock",
-		imgUrl:
-			"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-		hoverColor: "rgb(232, 24, 48)",
-		artist: "Gitar ve davulu konuşturanlar.",
-		playlistBg: "rgb(232, 24, 48)",
-		playlistData: [
-			{
-				index: "1",
-				songName: "Ben Vardım",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Fatma Turgut",
-				link:
-					"https://p.scdn.co/mp3-preview/774ecac56fa55a4a46f53756d2910a6d0cab2024?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "2",
-				songName: "HİÇ",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Ufuk Beydemir",
-				link:
-					"https://p.scdn.co/mp3-preview/35d525692406a0f11de5eff182dadce5f6b12839?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "3",
-				songName: "Buyur Burdan Yak",
-				songimg:
-					"https://i1.sndcdn.com/artworks-9zDNbnPibbyMdbHv-tWX9PA-t500x500.jpg",
-				songArtist: "Umut Kaya",
-				link:
-					"https://p.scdn.co/mp3-preview/4dd21e393d27556e57c46923557afed4ef1d32c7?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-		],
-	},
-	{
 		index: "3",
 		type: "playlist",
 		title: "Daily Mix 1",
@@ -217,112 +84,6 @@ export const PLAYLIST = [
 				songArtist: "Murder King",
 				link:
 					"https://p.scdn.co/mp3-preview/2680aa5c61fede26f4cc24edfa17f7b18edfac38?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "2",
-				songName: "Arıza",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851cc462180ef86e33de2265441",
-				songArtist: "Malt",
-				link:
-					"https://p.scdn.co/mp3-preview/95f66bb0428213025201b6139a9400e7bd2f6050?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "3",
-				songName: "Yukarıya Bak",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851e0cfce61b45ba6064a07fb0e",
-				songArtist: "Ogün Sanlısoy",
-				link:
-					"https://p.scdn.co/mp3-preview/182320dad925b62fe2dc6332213efd886de06389?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-		],
-	},
-	{
-		index: "4",
-		type: "playlist",
-		title: "Çalmaya Doyamadıkların",
-		link: "calmayadoyamadiklarin",
-		imgUrl:
-			"https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind_DEFAULT-tr.jpg",
-		hoverColor: "rgb(240, 56, 168)",
-		artist: "Çalmaya doyamadığın parçalar",
-		playlistBg: "rgb(240, 56, 168)",
-		playlistData: [
-			{
-				index: "1",
-				songName: "Irıe",
-				songimg:
-					"https://i.scdn.co/image/ab67616d000048515ac8e878a5af6bebbcd83cd8",
-				songArtist: "Sattas",
-				link:
-					"https://p.scdn.co/mp3-preview/8b54586a78acbc69fb19bdcd3cb47914b3d3971b?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "2",
-				songName: "I Shot The Sheriff",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851d752956b8a82ffa07baa835e",
-				songArtist: "Eric Clapton",
-				link:
-					"https://p.scdn.co/mp3-preview/1d3fc3dcc454fb4cab86f183e468617a21c3bfdd?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "3",
-				songName: "Before You Accuse Me",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851ed4b2a6ea7d8a04f39be0be0",
-				songArtist: "Eric Clapton",
-				link:
-					"https://p.scdn.co/mp3-preview/52cba5b168dae7b1d8e30d3873fc709fc2012a5f?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-		],
-	},
-	{
-		index: "5",
-		type: "albüm",
-		title: "Ben",
-		link: "ben",
-		imgUrl:
-			"https://i.scdn.co/image/ab67616d0000b273e0cfce61b45ba6064a07fb0e",
-		hoverColor: "rgb(160, 24, 32)",
-		artist: "Ogün Sanlısoy",
-		playlistBg: "rgb(160, 24, 32)",
-		playlistData: [
-			{
-				index: "1",
-				songName: "Ben",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851e0cfce61b45ba6064a07fb0e",
-				songArtist: "Ogün Sanlısoy",
-				link:
-					"https://p.scdn.co/mp3-preview/dc04a8a751d3934138d8d59ca9fc4d38293a7a7a?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "2",
-				songName: "Hadi Ben Güldür",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851e0cfce61b45ba6064a07fb0e",
-				songArtist: "Ogün Sanlısoy",
-				link:
-					"https://p.scdn.co/mp3-preview/5ee65e0b973ae11afff9dcc2ab3866006ffa6ea1?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "3",
-				songName: "Anma Arkadaş",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851e0cfce61b45ba6064a07fb0e",
-				songArtist: "Ogün Sanlısoy",
-				link:
-					"https://p.scdn.co/mp3-preview/808b9af30bb51f0aebff43b21e7b7d7cc885b37c?cid=6d083ea30aaa46428fbf1590d31f6750",
 				trackTime: "0:30",
 			},
 		],
@@ -505,12 +266,12 @@ export const SEARCHCARDS = [
 	{
 		bgcolor: 'rgb(160, 195, 210)',
 		imgurl: 'https://t.scdn.co/images/68433b0ee5b5465b8e926c42b84cbcdb.jpeg',
-		title: 'Senin için Hazırlandı',
+		title: 'Made for You',
 	},
 	{
 		bgcolor: 'rgb(75, 145, 125)',
 		imgurl: 'https://t.scdn.co/images/4b7472015a274eadbc00119f5141e548.jpeg',
-		title: 'Listeler',
+		title: 'Lists',
 	},
 	{
 		bgcolor: 'rgb(111, 111, 111)',
@@ -530,7 +291,7 @@ export const SEARCHCARDS = [
 	{
 		bgcolor: 'rgb(160, 195, 210)',
 		imgurl: 'https://t.scdn.co/images/0f2f4c71c9714cc5b757f7bb3559fcdb.jpeg',
-		title: 'Caz',
+		title: 'Case',
 	},
 	{
 		bgcolor: 'rgb(245, 155, 35)',
@@ -540,17 +301,17 @@ export const SEARCHCARDS = [
 	{
 		bgcolor: 'rgb(160, 195, 210)',
 		imgurl: 'https://t.scdn.co/images/acc7b5d7b1264d0593ec05c020d0a689.jpeg',
-		title: 'Yeni Çıkanlar',
+		title: 'New Releases',
 	},
 	{
 		bgcolor: 'rgb(245, 155, 35)',
 		imgurl: 'https://t.scdn.co/images/ad4d5c268a214f78920517e76e6ed107.jpeg',
-		title: 'Popcast\'ler',
+		title: 'Populer',
 	},
 	{
 		bgcolor: 'rgb(180, 155, 200)',
 		imgurl: 'https://t.scdn.co/images/d0fb2ab104dc4846bdc56d72b0b0d785.jpeg',
-		title: 'Keşfet',
+		title: 'Discover',
 	},
 	{
 		bgcolor: 'rgb(255, 100, 55)',
@@ -560,12 +321,12 @@ export const SEARCHCARDS = [
 	{
 		bgcolor: 'rgb(80, 155, 245)',
 		imgurl: 'https://t.scdn.co/images/baf681efc57145e180589e027496b101.jpeg',
-		title: 'Ruh Hali',
+		title: 'Mood',
 	},
 	{
 		bgcolor: 'rgb(245, 155, 35)',
 		imgurl: 'https://t.scdn.co/images/194b9d722de34cefb3b716c653b4526b.png',
-		title: 'Evde',
+		title: 'Home',
 	},
 	{
 		bgcolor: 'rgb(160, 195, 210)',
@@ -575,6 +336,6 @@ export const SEARCHCARDS = [
 	{
 		bgcolor: 'rgb(180, 155, 200)',
 		imgurl: 'https://t.scdn.co/images/cf23ab0343e047daa88703e21c01a4aa.jpeg',
-		title: 'Odaklan',
+		title: 'Focus',
 	}
 ]
