@@ -17,12 +17,12 @@ function Topnav({search = false, tabButtons = false}) {
                 </span>
                 <span>
                     <button className={styles.ProfileBtn}>
-                        Oğuzhan Ulukaya
+                        Irish Underground Artists
                     </button>
                 </span>
           </div>
       </nav>
     );
 }
-  
+
 export default Topnav;
