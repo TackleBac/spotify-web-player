@@ -244,7 +244,7 @@ export const PLAYLIST = [
 	{
 		index: "4",
 		type: "playlist",
-		title: "Çalmaya Doyamadıkların",
+		title: "Playlists",
 		link: "calmayadoyamadiklarin",
 		imgUrl:
 			"https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind_DEFAULT-tr.jpg",

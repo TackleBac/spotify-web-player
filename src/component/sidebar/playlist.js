@@ -11,13 +11,13 @@ import { PLAYLIST } from '../../data';
 function Playlist() {
     return (
       <div className={styles.Playlist}>
-        <TitleS>Çalma Listeleri</TitleS>
+        <TitleS>Playlists</TitleS>
 
         <div>
           {PLAYLISTBTN.map((playlist) => {
             return (
-                <PlaylistButton 
-                  href={playlist.path} 
+                <PlaylistButton
+                  href={playlist.path}
                   ImgName={playlist.ImgName}
                   key={playlist.title}
                 >
@@ -41,5 +41,5 @@ function Playlist() {
       </div>
     );
 }
-  
+
 export default Playlist;
