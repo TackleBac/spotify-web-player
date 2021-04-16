@@ -156,51 +156,8 @@ export const PLAYLIST = [
 		],
 	},
 	{
-		index: "4",
-		type: "playlist",
-		title: "Çalmaya Doyamadıkl",
-		link: "calmayadoyamadiklarin",
-		imgUrl:
-			"https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind_DEFAULT-tr.jpg",
-		hoverColor: "rgb(240, 56, 168)",
-		artist: "Çalmaya doyamadığın parçalar",
-		playlistBg: "rgb(240, 56, 168)",
-		playlistData: [
-			{
-				index: "1",
-				songName: "Irıe",
-				songimg:
-					"https://i.scdn.co/image/ab67616d000048515ac8e878a5af6bebbcd83cd8",
-				songArtist: "Sattas",
-				link:
-					"https://p.scdn.co/mp3-preview/8b54586a78acbc69fb19bdcd3cb47914b3d3971b?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "2",
-				songName: "I Shot The Sheriff",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851d752956b8a82ffa07baa835e",
-				songArtist: "Eric Clapton",
-				link:
-					"https://p.scdn.co/mp3-preview/1d3fc3dcc454fb4cab86f183e468617a21c3bfdd?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "3",
-				songName: "Before You Accuse Me",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851ed4b2a6ea7d8a04f39be0be0",
-				songArtist: "Eric Clapton",
-				link:
-					"https://p.scdn.co/mp3-preview/52cba5b168dae7b1d8e30d3873fc709fc2012a5f?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-		],
-	},
-	{
 		index: "5",
-		type: "albüm",
+		type: "album",
 		title: "Ben",
 		link: "ben",
 		imgUrl:
@@ -242,7 +199,7 @@ export const PLAYLIST = [
 		],
 	},
 	{
-		index: "6",
+		index: "2",
 		type: "playlist",
 		title: "Daily Mix 2",
 		link: "dailymix2",
@@ -286,7 +243,7 @@ export const PLAYLIST = [
 		],
 	},
 	{
-		index: "7",
+		index: "3",
 		type: "playlist",
 		title: "Daily Mix 3",
 		link: "dailymix3",
@@ -347,50 +304,6 @@ export const PLAYLIST = [
 				songArtist: "otarzmi",
 				link: "https://episodes.buzzsprout.com/gozvh84ncp95hmvgapex1dk5pjwx?",
 				trackTime: "41:25",
-			},
-		],
-	},
-	{
-		index: "9",
-		type: "playlist",
-		title: "Haftalık Keşif",
-		link: "haftalikkesif",
-		imgUrl:
-			"https://newjams-images.scdn.co/v3/discover-weekly/2lV5Qwmpe91f0dhmWfev1weP_q_HziA_LM11FaIr4Bu68O0yYXq-XPsfv6Avul-vaOKC9f6srSRgph0fDqROxs2RF1snIhpYpjxK5JjdyiQ=/MTM6MDA6MTBUMzItMzAtMQ==/default",
-		hoverColor: "rgb(240, 144, 184)",
-		artist:
-			"Haftalık taptaze müzik derlemen. Yeni ve ender duyulan müziklerin tadını çıkar. Her Pazartesi güncellenir.",
-		playlistBg: "rgb(240, 144, 184)",
-		playlistData: [
-			{
-				index: "1",
-				songName: "Entertain You",
-				songimg:
-					"https://i.scdn.co/image/ab67616d0000485138256ec6ec7c0e9cd3bf3e92",
-				songArtist: "Within Temptation",
-				link:
-					"https://p.scdn.co/mp3-preview/3bb74739f51b566347077a64e58688787fd87111?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "2",
-				songName: "Stones",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851635c9fa1d8db5af7aac19a29",
-				songArtist: "Marko Hietala",
-				link:
-					"https://p.scdn.co/mp3-preview/dce5967bf69ea027f54ea67fe59984f3eb47a21f?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
-			},
-			{
-				index: "3",
-				songName: "Mein Herz brennt",
-				songimg:
-					"https://i.scdn.co/image/ab67616d00004851ce965578345576f348e20b96",
-				songArtist: "Eleine",
-				link:
-					"https://p.scdn.co/mp3-preview/693c91d913b1512e4daa158f3237db40079a3f94?cid=6d083ea30aaa46428fbf1590d31f6750",
-				trackTime: "0:30",
 			},
 		],
 	},
