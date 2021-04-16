@@ -33,7 +33,7 @@ export const PLAYLISTBTN = [
       ImgName: 'createPlaylist',
     },
     {
-      title: 'Popular Songs',
+      title: 'Popular',
       path: '/',
       ImgName: 'popularSong',
     }
