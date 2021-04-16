@@ -5,9 +5,9 @@ function SearchBox() {
     return (
         <div className={styles.SeachBox}>
             <Icons.Search />
-            <input placeholder="Sanatçılar, şarkılar veya podcast'ler" maxLength="80"/>
+            <input placeholder="Search by Artist, Album or Genre" maxLength="80"/>
         </div>
     );
 }
-  
+
 export default SearchBox;
